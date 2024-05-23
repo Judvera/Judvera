@@ -1,3 +1,8 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+
 # Hola 👋 soy Judith Vera Aranda
 
 Principiante pero con talento en aprender nuevos lenguajes de programación, diseño, desarrollo,etc
