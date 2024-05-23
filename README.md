@@ -36,6 +36,8 @@ Titulada de carrera Informatica pero con el bichito de siempre aprender algo nue
 <a href="https://github.com/JudVera/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JudVera&show_owner=true&hide=issues&theme=dark&show_icons=true"/>
 </a>
+
+
 <a href="https://github.com/JudVera/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Judvera&layout=compact&langs_count=8&card_width=320" />
 </a>
