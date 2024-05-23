@@ -1,4 +1,4 @@
-# Hola 👋, soy Judith Vera Aranda
+# Hola 👋 soy Judith Vera Aranda
 
 Principiante pero con talento en aprender nuevos lenguajes de programación, diseño, desarrollo,etc
 
@@ -36,4 +36,3 @@ Titulada de carrera Informatica pero con el bichito de siempre aprender algo nue
 </a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JudVera&repo=Proyecto_Our_Home)](https://github.com/JudVera/Proyecto_Our_home)
