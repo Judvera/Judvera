@@ -13,7 +13,7 @@ Titulada de carrera Informatica pero con el bichito de siempre aprender algo nue
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<judith.vera10@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/judith-vera-aranda)**
+- Puedes contactarme a través de <a href="https://linkedin.com/in/judith-vera-aranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judith-vera-aranda" height="30" width="40" /></a>
 
 
 ### 🎨 Frontend
@@ -31,7 +31,7 @@ Titulada de carrera Informatica pero con el bichito de siempre aprender algo nue
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judvera&" alt="judvera" /></p>
 
 <a href="https://github.com/JudVera/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JudVera&show_owner=true&hide=issues&theme=dark&show_icons=true"/>
@@ -41,5 +41,10 @@ Titulada de carrera Informatica pero con el bichito de siempre aprender algo nue
 <a href="https://github.com/JudVera/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Judvera&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+
+
+
+
 
 
